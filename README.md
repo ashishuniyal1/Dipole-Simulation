@@ -1,8 +1,7 @@
 # Dipole Simulation using Manim
-# Implementation of an electric dipole from scratch using Maxwell's equations and animating the result in Manim
-The electric dipole setup and the corresponding field is done in `Dipole_Sim.py` and is imported for animation in Manim in `DipoleField.py`
+**Implementation of an electric dipole from scratch using Maxwell's equations and animating the result in Manim**.
 
-Dipole Sim is the code with Field and potential functions used for the simulation in DipoleFIeld.
+The electric dipole setup and the corresponding fields are defined in `Dipole_Sim.py` which is imported for animation using Manim in `DipoleField.py`
 
 ## Output
 
